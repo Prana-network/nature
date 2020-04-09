@@ -1,0 +1,46 @@
+{ ====== + Ai Level ========== } 
+
+VIII / Highload & Automation
+Management
+{ Topology | Content | Finance }
+
+{ ====== TOP LEVELS ========== }
+
+VII / API
+{ Topology | Content | Finance }
+Handling
+
+VI / Management
+Consolidation:
+{ Topology | Content | Finance }
+
+{ ====== Backbone Levels ===== }
+
+V / Hardware, network
+- Content
+- Topology
+- Finance
+
+IV / Data Stramflow
+- Finance
+- Content
+- Topology
+
+{ ==== PAYLOAD LEVELS ===== }
+
+III / Content production
+- Content
+- Topology
+- Finance
+
+II / User enviroment
+- Finance
+- Content
+- Topology
+
+{ ====== Abstract Level ====== } 
+
+I / End-User expirience
+- Content
+- Topology
+- Finance
